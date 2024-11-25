@@ -3,7 +3,7 @@ public class test{
 		System.out.println("Hello World!");
 		System.out.println("Added Second line");
 		System.out.println("Added Third Line");
-		System.out.prinln("Added fourth line in next day");
+		System.out.println("Added fourth line in next day");
 	}	
 
 }
